@@ -1,2 +1,2 @@
 # Local_Voice_LLM_12B_Params
-This is a repository that is a combinatorial interaction and deployment of a 12B local LLM and a local TTS with realistic sound modulations and training. The aim is to explore the automation of tasks in a more realistic, friendly approach to general tasks
+This is a repository that is a combination of interacting model components and deployment; a (14B-parameter) local LLM and a local TTS with realistic sound modularity and dictations. The aim is to explore the automation of tasks in a realistic, friendly, and engaging way.
